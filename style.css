@@ -1,0 +1,13 @@
+.jumbotron{
+    margin-top: 10%;
+}
+
+.form-control{
+    width: 50%;
+    margin-left: 25%;
+}
+
+body{
+    font-family: 'Playfair Display', serif;
+    background-image: url(https://previews.123rf.com/images/mackoflower/mackoflower1507/mackoflower150700437/42590637-collage-of-lots-of-popular-worldwide-dinner-foods-and-appetizers.jpg);
+}
